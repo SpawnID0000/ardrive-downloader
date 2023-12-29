@@ -3,6 +3,9 @@ Downloads content from ArDrive
 
 _Note: For use with decrypt_concat_script (https://github.com/SpawnID0000/decrypt_concat_script)_
 
+**Make sure to have decrypt_concat_script.py available in the working directory before running ardrive_downloader.py!**
+
+
 Before running this script, install or upgrade the following:
 ```
 brew install git
